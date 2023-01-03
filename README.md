@@ -21,7 +21,7 @@ I am a Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
 - :zap:In my free time, I solve problems on Hackerrank and answer the queries on Stack Overflow.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mujtaba-mateen-4258971b8/)
-- :coffee:Fiverr Profile: [![Fiverr Badge](https://img.shields.io/badge/-Fiverr-brightgreen)](https://www.fiverr.com/mujtabadot?up_rollout=true)
+- :coffee:Fiverr Profile: [![Fiverr Badge](https://camo.githubusercontent.com/32dbb86bcee0bdcc2b1054f052daca3dac49a3196eba2dbe38b386c6f2039c13/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d46697665727226636f6c6f723d323232323232266c6f676f3d466976657272266c6f676f436f6c6f723d314442463733266c6162656c3d)](https://www.fiverr.com/mujtabadot?up_rollout=true)
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
