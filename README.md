@@ -21,6 +21,7 @@ I am a Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
 - :zap: In my free time, I solve problems on Hackerrank and answer the queries on Stack Overflow.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mujtaba-mateen-4258971b8/)
+- :money: Fiverr Profile: [![Fiverr Badge](https://img.shields.io/badge/Fiverr-Fiverr%20Profile-brightgreen)](https://www.fiverr.com/mujtabadot?up_rollout=true)
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
@@ -48,7 +49,7 @@ I am a Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mujtaba523&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Fiverr](https://image.pngaaa.com/695/2410695-middle.png)](https://www.fiverr.com/mujtabadot?up_rollout=true)
+
 
 
 
