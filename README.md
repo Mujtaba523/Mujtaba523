@@ -48,23 +48,6 @@ I am a Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mujtaba523&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-<!-- Put this code anywhere in the body of your page where you want the badge to show up. -->
-
-<div itemscope itemtype='http://schema.org/Person' class='fiverr-seller-widget' style='display: inline-block;'>
-     <a itemprop='url' href=https://www.fiverr.com/mujtabadot rel="nofollow" target="_blank" style='display: inline-block;'>
-        <div class='fiverr-seller-content' id='fiverr-seller-widget-content-62b421c1-08eb-4dd3-8f49-4779a98ff98f' itemprop='contentURL' style='display: none;'></div>
-        <div id='fiverr-widget-seller-data' style='display: none;'>
-            <div itemprop='name' >mujtabadot</div>
-            <div itemscope itemtype='http://schema.org/Organization'><span itemprop='name'>Fiverr</span></div>
-            <div itemprop='jobtitle'>Seller</div>
-            <div itemprop='description'>Welcome to my profile. I am a data analyst that is creative and extremely motivated. I'm finishing up my computer engineering degree at a prestigious institution. I enjoy playing around and entwining data to reveal profitability and potential. 
-The phrase "You are blessed if your passion is also your way of income" is something I wish to demonstrate.
-</div>
-        </div>
-    </a>
-</div>
-
-<script id='fiverr-seller-widget-script-62b421c1-08eb-4dd3-8f49-4779a98ff98f' src='https://widgets.fiverr.com/api/v1/seller/mujtabadot?widget_id=62b421c1-08eb-4dd3-8f49-4779a98ff98f' data-config='{"category_name":"Data"}' async='true' defer='true'></script>
-
+[![Fiverr Badge](https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto/gigs/119931873/original/d9f3c8860bea82e253892f7d94d2a2a52a4848b2/add-fiverr-badge-to-your-github-repository.png)](https://www.fiverr.com/users/mujtabadot/manage_gigs)
 
 
