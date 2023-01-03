@@ -48,6 +48,8 @@ I am a Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mujtaba523&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+<!-- Put this code anywhere in the body of your page where you want the badge to show up. -->
+
 <div itemscope itemtype='http://schema.org/Person' class='fiverr-seller-widget' style='display: inline-block;'>
      <a itemprop='url' href=https://www.fiverr.com/mujtabadot rel="nofollow" target="_blank" style='display: inline-block;'>
         <div class='fiverr-seller-content' id='fiverr-seller-widget-content-62b421c1-08eb-4dd3-8f49-4779a98ff98f' itemprop='contentURL' style='display: none;'></div>
@@ -68,4 +70,5 @@ The phrase "You are blessed if your passion is also your way of income" is somet
 </div>
 
 <script id='fiverr-seller-widget-script-62b421c1-08eb-4dd3-8f49-4779a98ff98f' src='https://widgets.fiverr.com/api/v1/seller/mujtabadot?widget_id=62b421c1-08eb-4dd3-8f49-4779a98ff98f' data-config='{"category_name":"Data"}' async='true' defer='true'></script>
+
 
