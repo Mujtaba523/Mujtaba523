@@ -48,7 +48,7 @@ I am a Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mujtaba523&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Fiverr](https://cdn.worldvectorlogo.com/logos/fiverr-1.svg)width="30"](https://www.fiverr.com/mujtabadot?up_rollout=true)
+[![Fiverr](https://image.pngaaa.com/695/2410695-middle.png)](https://www.fiverr.com/mujtabadot?up_rollout=true)
 
 
 
