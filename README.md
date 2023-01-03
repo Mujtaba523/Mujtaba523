@@ -49,7 +49,7 @@ I am a Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mujtaba523&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <div>
-  <img src="[https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg](https://cdn-images-1.medium.com/max/1200/1*Xa26ULIpZTTP1hN_ReUXVQ.png)" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="[[https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg](https://cdn-images-1.medium.com/max/1200/1*Xa26ULIpZTTP1hN_ReUXVQ.png)](https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/fiverr-icon.png)" title="Python" alt="Python" width="40" height="40"/>&nbsp;
 </div>
 
 
