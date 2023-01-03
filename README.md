@@ -48,7 +48,9 @@ I am a Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mujtaba523&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Fiverr Badge]([https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto/gigs/119931873/original/d9f3c8860bea82e253892f7d94d2a2a52a4848b2/add-fiverr-badge-to-your-github-repository.png](https://cdn-images-1.medium.com/max/1200/1*Xa26ULIpZTTP1hN_ReUXVQ.png))](https://www.fiverr.com/users/mujtabadot/manage_gigs)
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+</div>
 
 
 
