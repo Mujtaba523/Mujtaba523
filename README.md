@@ -15,7 +15,7 @@
 ---
 
 ### :man_technologist: About Me :
-I am a Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Pakistan.
+I am a Data Fanatic <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Pakistan.
 - :telescope: I’m working as a Freelance Data Analyst and Python Programmer on Fiverr.
 
 - :zap:In my free time, I solve problems on Hackerrank and answer the queries on Stack Overflow.
