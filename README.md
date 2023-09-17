@@ -32,7 +32,6 @@ I am a Data Fanatic <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/g
   <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="Tensorflow" alt="Tensorflow" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/2048px-Keras_logo.svg.png" title="Keras" alt="Keras" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Created_with_Matplotlib-logo.svg/1024px-Created_with_Matplotlib-logo.svg.png"  title="Matplotlib" alt="Matplotlib" width="40" height="40"/>&nbsp;
-  <img src="https://warehouse-camo.ingress.cmh1.psfhosted.org/a1cecb3cdad8b27da8b7cd1a6622bc900ef79907/687474703a2f2f6661726d332e737461746963666c69636b722e636f6d2f323836302f383735343636313038315f633430653561323134635f6f2e6a7067" title="Folium" alt="Folium" width="40" height="40"/>&nbsp;
   <img src="https://w7.pngwing.com/pngs/117/809/png-transparent-microsoft-excel-training-computer-software-microsoft-office-excel-template-angle-text-thumbnail.png" title="MS Excel" alt="MS Excel" width="40" height="40"/>&nbsp;
   <img src="https://connectoricons-prod.azureedge.net/releases/v1.0.1578/1.0.1578.2813/powerbi/icon.png" title="MS Power BI" alt="MS Power BI" width="40" height="40"/>&nbsp;
   <img src="https://1.bp.blogspot.com/-IbFQUi1VE3U/X_wdvhQhq8I/AAAAAAAAARQ/ouNmnRcDlNQ_PiQ4rGHDGqbKhCOG5PXgACPcBGAYYCw/s750/scikit-learn-logo.png" title="Scikit Learn"  alt="Scikit Learn" width="40" height="40"/>&nbsp;
