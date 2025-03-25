@@ -18,15 +18,9 @@
 
 I am a Data Fanatic 🎯 from Pakistan, passionate about Data Science, Machine Learning, and AI. I love exploring deep learning, NLP, distributed computing, and automation to solve real-world problems.
 
-    🔭 Currently working as a Freelance Data Scientist
+    🔭 Worked as a Freelance Data Scientist on Fiverr and Upwork.
 
     ⚡ Interests: AI, ML, Deep Learning, Cloud Computing, Distributed Systems
-
-    🛠️ Tech Stack: Python, Pandas, NumPy, Scikit-learn, PyTorch, FastAPI, Apache Spark, CockroachDB, MATLAB
-
-    📌 Projects: Urdu Voice Cloning, Real-time Data Processing, Regression Model Comparisons, Image Preprocessing for OCR
-
-    ✍️ Kaggle Blogger: Sharing insights on niche AI/ML topics
 
 🚀 Open-Source & Community Contributions
 
