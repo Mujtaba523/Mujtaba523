@@ -46,7 +46,6 @@ I am a Data Fanatic 🎯 from Pakistan, passionate about Data Science, Machine L
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://seaborn.pydata.org/_images/logo-tall-lightbg.svg" title="Seaborn" alt="Seaborn" width="40" height="40"/>&nbsp;
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSq6j4V9KQkbPMmOvOx7mdVgkLk8f-aDtZ9HyrF9mCOlBU6ryZAzjsOAoyiC0AcIyPZ2sI&usqp=CAU" title="Jupyter Notebook" alt="Jupyter Notebook" width="40" height="40"/>&nbsp;
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ44DnxF-DnRAQTiv-p-1VtJPfHsMLQIHGKBsPV1vpLakAouroZoiT1v9fzOFPwW5p3ek0&usqp=CAU" title="Plotly" **alt="Plotly" width="40" height="40"/>
 </div>
 
 ---
