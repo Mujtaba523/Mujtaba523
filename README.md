@@ -14,14 +14,29 @@
 
 ---
 
-### :man_technologist: About Me :
-I am a Data Fanatic <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Pakistan.
-- :telescope: I’m working as a Freelance Data Scientist.
+👨‍💻 About Me
 
-- :zap:In my free time, I solve problems on Hackerrank and answer the queries on Stack Overflow I also open-source contribute at Kaggle.
+I am a Data Fanatic 🎯 from Pakistan, passionate about Data Science, Machine Learning, and AI. I love exploring deep learning, NLP, distributed computing, and automation to solve real-world problems.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://camo.githubusercontent.com/12d696c039b7e718da27138d78a1a5e2dadcb331ad441652c1ce2df0d8f2ef41/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d4c696e6b6564496e26636f6c6f723d304136364332266c6f676f3d4c696e6b6564496e266c6f676f436f6c6f723d464646464646266c6162656c3d)](https://www.linkedin.com/in/mujtaba-mateen-4258971b8/)
----
+    🔭 Currently working as a Freelance Data Scientist
+
+    ⚡ Interests: AI, ML, Deep Learning, Cloud Computing, Distributed Systems
+
+    🛠️ Tech Stack: Python, Pandas, NumPy, Scikit-learn, PyTorch, FastAPI, Apache Spark, CockroachDB, MATLAB
+
+    📌 Projects: Urdu Voice Cloning, Real-time Data Processing, Regression Model Comparisons, Image Preprocessing for OCR
+
+    ✍️ Kaggle Blogger: Sharing insights on niche AI/ML topics
+
+🚀 Open-Source & Community Contributions
+
+    💡 Solving challenges on HackerRank
+
+    📌 Helping developers on Stack Overflow
+
+    🏆 Actively contributing to Kaggle
+
+📫 Let's Connect!
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
